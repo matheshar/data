@@ -1,0 +1,25 @@
+{
+	"data": [
+				{
+				  "empId":"1",
+				  "firstname":"Paul",
+				  "lastname":"Smith",
+				  "position":"Supervisor",
+				  "country":"Angola"
+				},
+				{
+				  "empId":"2",
+				  "firstname":"Saun",
+				  "lastname":"Graeme",
+				  "position":"Dirrector",
+				  "country":"Mexico"
+				},
+				{
+				  "empId":"3",
+				  "firstname":"Susan",
+				  "lastname":"Peterson",
+				  "position":"Manager",
+				  "country":"South America"
+				}
+			]
+}  
